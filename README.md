@@ -21,5 +21,3 @@ I build AI workflows, automation systems, and web products with Python, JavaScri
 ## Selected Repositories
 
 - [agent-context-compression](https://github.com/webdev0814/agent-context-compression) - reusable prompt instructions for reducing token usage without sacrificing correctness
-- [missionary-ready-90-day-fitness-tracker](https://github.com/webdev0814/missionary-ready-90-day-fitness-tracker) - 90-day fitness tracker workbook and dashboard
-
