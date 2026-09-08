@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[f554a33]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[9d3ec2f]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[a25c689]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[bbcd00e]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[241663b]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[8003e84]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[3f27b0c]` (2026-07-05) Update profile README with structured project listings, stats, stack, and modern layout
 - `[bafd9a4]` (2026-06-08) Update profile README after repository renames
 - `[436f47a]` (2026-06-08) Refine profile showcase README
-- `[1ca0b9b]` (2026-06-08) Add portfolio-first profile README
-- `[6b0e2d6]` (2026-05-02) Update README.md
-- `[bc753a2]` (2021-11-04) Create README.md
 
 ---
 
